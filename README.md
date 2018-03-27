@@ -8,8 +8,7 @@ FROM datasets.college_football_players
 where year = 'FR'
 order by height DESC
 ```
-
-！【ICA4】(Visualization/ICA4-1.png)
+！[ICA4](Visualization/ICA4-1.jpg)
 
 Q2:Rank the height from the highest to lowest in position WR
 
